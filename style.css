@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url("https://i.stack.imgur.com/wN3s7.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.inp {
+    padding: 10px 25px;
+    text-align: center;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+
+#btnadd {
+    padding: 10px 25px;
+    background-color: rgb(22, 2, 235);
+    color: aliceblue;
+    border-radius: 30px;
+    margin-left: 15px;
+}
+
+#savebtn {
+    padding: 10px 25px;
+    margin-left: 754px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(22, 2, 235);
+    color: aliceblue;
+}
+
+.form .container {
+    margin-bottom: 10px;
+}
